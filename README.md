@@ -1,2 +1,2 @@
 # ANDROID-Scripts
-This Repository consists ANDROID scripts.
+A Basic Hello World Android Application.
